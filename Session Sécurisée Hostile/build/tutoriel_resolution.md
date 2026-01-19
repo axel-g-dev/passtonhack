@@ -142,6 +142,6 @@ docker run -it --rm \
 
 La vidéo suivante illustre l'exécution du script et l'obtention du flag sur un environnement Kali Linux.
 
-<video controls src="Flag-Session-Sécurisée-Hostile.mp4" title="Démonstration de résolution"></video>
+[▶️ Voir la vidéo de démonstration (Flag-Session-Sécurisée-Hostile.mp4)](Flag-Session-Sécurisée-Hostile.mp4)
 
 **Flag obtenu** : `FLAG{94c49e9baae50e0218ca6430e43de180}`
