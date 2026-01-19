@@ -1,8 +1,8 @@
-# 🚩 Passtonhack - Solutions & Write-ups
+# Passtonhack - Solutions & Write-ups
 
 Ce dépôt contient mes solutions, scripts et tutoriels pour les challenges de la plateforme **Passetonhack**.
 
-## 📂 Liste des Challenges résolus
+## Liste des Challenges résolus
 
 Voici l'index des write-ups disponibles dans ce dépôt :
 
@@ -20,7 +20,3 @@ Voici l'index des write-ups disponibles dans ce dépôt :
 
 ---
 
-### ⚠️ Avertissement
-Ces solutions sont partagées à but éducatif. Il est recommandé de chercher par soi-même avant de consulter la solution complète afin de maximiser l'apprentissage.
-
-*Bon hacking !*
