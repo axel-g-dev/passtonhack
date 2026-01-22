@@ -4,7 +4,7 @@ Ce dépôt contient mes solutions, scripts et tutoriels pour les challenges de l
 
 ## Liste des Challenges résolus
 
-Voici l'index des write-ups disponibles dans ce dépôt :
+Voici l'index des défis disponibles dans ce dépôt :
 
 | Challenge                                         | Solution                                                                           |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------- |
