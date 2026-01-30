@@ -1,6 +1,6 @@
 # Passtonhack - Solutions & Write-ups
 
-Ce dépôt contient mes solutions, scripts et tutoriels pour les challenges de la plateforme **Passetonhack**.
+Ce dépôt contient mes solutions, scripts et tutoriels pour les challenges de la plateforme *Passetonhack*.
 
 ## Liste des Challenges résolus
 
