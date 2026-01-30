@@ -18,5 +18,4 @@ Voici l'index des défis disponibles dans ce dépôt :
 | **Écho de l’Abîme - Décodage sonar Morse**        | [Accéder au dossier](./Écho%20de%20l’Abîme%20-%20Décodage%20sonar%20Morse/)        |
 | **Écho de l’Abîme - Reconstruction de fragments** | [Accéder au dossier](./Écho%20de%20l’Abîme%20-%20Reconstruction%20de%20fragments/) |
 
----
 
